@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1076621998067",
+    "firebase_url": "https://agriexpertchatsdk.firebaseio.com",
+    "project_id": "agriexpertchatsdk",
+    "storage_bucket": "agriexpertchatsdk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076621998067:android:a1aa83677582bf655a0486",
+        "android_client_info": {
+          "package_name": "com.agriexpertchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076621998067-1eken9n6r6j8868uva8t8p6a40slprse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyAmKWPtX9sasujAn_xqJCkF0fl-Iwt38"
+            }
+          ],
+          "services": {
+            "appinvite_service": {
+              "other_platform_oauth_client": [
+                {
+                  "client_id": "1076621998067-1eken9n6r6j8868uva8t8p6a40slprse.apps.googleusercontent.com",
+                  "client_type": 3
+                }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
