@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1076621998067-kckireehn102c2g0steg0dk1tvel65j7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agriexpertchat",
+            "certificate_hash": "36b2d19628200cf66e653424160f79e25237c501"
+          }
+        },
+        {
           "client_id": "1076621998067-1eken9n6r6j8868uva8t8p6a40slprse.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -22,15 +30,15 @@
       "api_key": [
         {
           "current_key": "AIzaSyCyAmKWPtX9sasujAn_xqJCkF0fl-Iwt38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076621998067-1eken9n6r6j8868uva8t8p6a40slprse.apps.googleusercontent.com",
+              "client_type": 3
             }
-          ],
-          "services": {
-            "appinvite_service": {
-              "other_platform_oauth_client": [
-                {
-                  "client_id": "1076621998067-1eken9n6r6j8868uva8t8p6a40slprse.apps.googleusercontent.com",
-                  "client_type": 3
-                }
           ]
         }
       }
