@@ -15,7 +15,4 @@ public interface AgriExpertChatInterface {
     public void onChangeUserStatusResponse(String status, String lastSeen);
 
     public void onMessageSentResponse(String Response);
-
-
-
 }
