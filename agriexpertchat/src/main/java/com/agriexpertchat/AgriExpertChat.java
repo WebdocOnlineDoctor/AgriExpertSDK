@@ -296,7 +296,8 @@ public class AgriExpertChat {
         return response[0];
     }
 
-    public static void registerUserForChat(Context context, final String appName, final String name, final String email, final String password) {
+    public static void registerUserForChat(Context context, final String appName, final String name, final String email, final String password)
+    {
         final FirebaseAuth mAuth = com.google.firebase.auth.FirebaseAuth.getInstance();
         final RegisterUserForChatInterface registerUserForChatInterface = (RegisterUserForChatInterface) context;
         mAuth.createUserWithEmailAndPassword(email, password)
